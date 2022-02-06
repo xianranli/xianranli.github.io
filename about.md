@@ -2,63 +2,116 @@
 title: About
 permalink: /about/
 ---
+We integrate diverse and complex genomic, phenomic, enviromic data sources to investigate evolution, selection and interactions among plants and the environment. Compuational biology, molecular biology, and field research are incorporated into various projects. 
 
-### About us
-We are a group of data scientists with interest in brains and, more general, biomedical research. Our research is more diverse than most labs, and also changes much more quickly! Right at the moment, much of the research in the lab is about deep learning and its applications. We also do a good bit of neural data analysis. Right now we are also very much interested in causality and its links with machine learning.
+##### 1 Sensing what plants sense
+The same genotype in different environments can have different performance, i.e., [phenotypic plasticity](https://en.wikipedia.org/wiki/Phenotypic_plasticity). Understanding the patterns underlying phenotypic plasticity is essential to improve crops growing in natural conditions. With <u>CERIS</u>, the explicit environmental condition impacts the final trait most in natural fields could be identified, enabling exciting new avenues of explorations for the interactions among genetics, environment, and development. [New Phytologist (2022)](https://doi.org/10.1111/nph.17904), [Molecular Plant (2021)](https://doi.org/10.1016/j.molp.2021.03.010), [Genome Research (2019)](https://doi.org/10.1101/gr.255703.119), and [PNAS (2018)](https://doi.org/10.1073/pnas.1718326115).
 
-### Research
-Making sense of data is possibly the biggest problem in Neuroscience and beyond. We build algorithms to analyze data. We also use theory as well as computational and [neural modeling](https://en.wikipedia.org/wiki/Computational_neuroscience) to understand how information is processed in the nervous system, explaining data obtained in collaboration with [electrophysiologists](https://en.wikipedia.org/wiki/Electrophysiology) and in [psychophysical](https://en.wikipedia.org/wiki/Psychophysics) experiments. Lastly, we constrain and develop new technologies aimed at obtaining data about brains.
+<div id="cerisCarousel" class="carousel slide" data-ride="carousel" >
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#cerisCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#cerisCarousel" data-slide-to="1"></li>
+    <li data-target="#cerisCarousel" data-slide-to="2"></li>
+    </ol>
 
-Our conceptual work addresses information processing in the nervous system from two angles: (1) By analyzing and explaining electrophysiological data, we study what neurons do. (2) By analyzing and explaining human behavior, we study what all these neurons do together. Much of our work looks at these questions from a normative or causal viewpoint, asking what problems the nervous system should be solving. This often means taking a Bayesian approach. Bayesian decision theory is the systematic way of calculating how the nervous system may make good decisions in the presence of uncertainty. Causal inference from observational data promises to be a key enabler for progress in science.
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox" style="max-width:2000px; max-height:577px !important;">
+    <div class="item active">
+      <img src="/images/others/ceris.png" class="mh-100 center-block" alt=" " style="width: auto; height: 200px;">
+    </div>
 
-We've pursued projects that involve handshake greetings, human movement, [cell-phone related parkinson's research](http://journal.frontiersin.org/article/10.3389/fneur.2012.00158/abstract), competitions at [Kaggle](https://www.kaggle.com/), [meta-science analysis](http://www.nature.com/nature/journal/v489/n7415/full/489201a.html), data sharing initiatives, and [recording from all neurons in a mouse](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002291).
+    <div class="item">
+      <img src="/images/others/ceris2Da.png" class="mh-100 center-block" alt=" " style="width: auto; height: 200px;">
+    </div>
 
-The best way to get a sense of what's currently going on in the lab is to check out the work of individual lab members:
+    <div class="item">
+      <img src="/images/others/ceris3D.jpg" class="mh-100 center-block" alt=" " style="width: auto; height: 200px;">
+    </div>
 
-### Lab Members
+  </div>
 
-Our research group is remarkably interdisciplinary. Our interests span statistics, physics, biology, applied mathematics, molecular biology, metascience, cognitive science, and many other disciplines. Visit our [people page](http://kordinglab.com/people/) to see more information on each person who works in the lab (publications, contact information, photos).
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#cerisCarousel" data-slide="prev" style="background-image: none;">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#cerisCarousel" data-slide="next" style="background-image: none;">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
 
-### Lab Culture
-
-Our lab is a wonderful spot for anyone who is super driven by curiosity and likes to learn/move through ideas quickly. Instead of one big "lab project", everyone is generally the chief of their own individual projects.
-
-Since our lab includes several fields, we don't have big lab meetings with everyone. Instead, we engage in a number of practices to facilitate good communication in the lab. Currently these include
-0. Weekly 'lab teachings' where someone teaches a thing. http://kordinglab.com/2018/08/29/upcoming-lab-teaching.html
-0. 'One-on-ones'. Every semester everyone in the lab is expected to sit down with everyone else for an hour.
-0. Lab tea time. It's tea! And science. A 10-minute talk by someone about anything, including their current work.
-0. Coding overviews. Structured like the one-on-ones
-0. A lab hammock, hangboard, and art on loan from the Penn Museum
-0. Monday morning donuts @ 9:00am
-
-Every week, more or less, we chat about current lab practices and sometimes vote on new things.
-
-### Collaborators
-
-Here are some cool people in fields that interest us. **note:** This list is in no way complete. We have a lot of collaborators -- if you've collaborated with us and want a link here, let us know!
-
-**University of Pennsylvania:**
-- [David Issadore - Dept of Bioengineering](http://cnt.upenn.edu/david-issadore)
-- [Jay Gottfried - Dept of Neurology](http://labs.feinberg.northwestern.edu/gottfried/)
-- [Raquel and Ruben Gur - Dept of Neuropsychiatry](http://www.med.upenn.edu/bbl/faculty-regur.html)
-- [Maria Geffen - Dept of Otorhinolaryngology](https://geffenlab.weebly.com/)
-- [Yale Cohen - Dept of Otorhinolaryngology](http://auditoryresearchlaboratory.weebly.com/)
-- [Dani Bassett - Dept of Bionengineering](https://www.danisbassett.com/)
-- [Andrew Tsourkas - Dept of Bioengineering](http://www.seas.upenn.edu/~atsourk/)
-- [Jason Moore - Dept of Biostatistics](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8803452)
-- [Lyle Ungar - Dept of CIS](http://www.cis.upenn.edu/~ungar/)
-
-**Northwestern University:**
-- [Lee Miller - Depts of Physiology and BME](http://physio.northwestern.edu/)
-- [Mark Segraves - Depts of Neurobiology and Physiology](http://www.neurobiology.northwestern.edu/people/core-faculty/mark-segraves.html)
-- [Matt Tresch - Depts of Physiology and BME](http://www.mccormick.northwestern.edu/biomedical/)
-- [David Mohr - Dept of Preventive medicine](http://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=17234)
+</div>
 
 
-**External:**
+##### 2 Ingrained Climate Change
+Climatic conditions, constantly changing, have profound impacts on crop performance. Characterization of such impacts not only requires experimental data, but also suitable approaches. Variety testing trial, a standard step in breeding elite varieties, can be traced back decades. The performance records from these trials not only evaluate the potential of elite varieties, but also the impacts from climatic conditions, which offers emperical data to learn the impacts of climatic conditions. A combination of <u>CERIS</u> and <u>Enviromic Prediction</u> to characterize and exploit the impact of changing climate conditions on crop performance through repurposing long-term variety testing trials. [Molecular Plant (2022)](https://doi.org/10.1016/j.molp.2022.01.001)
 
-- [Scott Grafton - UCSB](https://www.psych.ucsb.edu/people/faculty/grafton)
-- [Nicho Hatsopoulos - University of Chicago](http://pondside.uchicago.edu/oba/faculty/Hatsopoulos/lab/)
-- [Peter Strick - University of Pittsburgh](http://www.cnbc.cmu.edu/faculty/strick-peter-l/view-details)
-- [Mriganka Sur - MIT](http://surlab.mit.edu/)
-- [Rob Turner - University of Pittsburgh](http://www.neurobio.pitt.edu/faculty/turner.htm)
+<div id="idahoCarousel" class="carousel slide" data-ride="carousel" >
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#idahoCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#idahoCarousel" data-slide-to="1"></li>
+    </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox" style="max-width:2000px; max-height:577px !important;">
+    <div class="item active">
+      <img src="/images/others/Picture4.jpg" class="mh-100 center-block" alt=" " style="width: auto; height: 200px;">
+    </div>
+
+    <div class="item">
+      <img src="/images/others/sFig2A_v6.png" class="mh-100 center-block" alt=" " style="width: auto; height: 200px;">
+    </div>
+
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#idahoCarousel" data-slide="prev" style="background-image: none;">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#idahoCarousel" data-slide="next" style="background-image: none;">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+
+
+</div>
+
+
+##### 3 Domestication triangle
+Crop domestication, an evolutionary process, took place with the synergistic interactions among intrinsic characteristics of the domestication triad (domesticator, domesticate, and environment). Human, as domesticator, based on local environmental conditions, deliberately selected particular characteristics, driven by domesticates' genetic constituents, to meet human's various demands. Our study established that sorghum domestication is a compelling model for understanding the complete links of this triad. [Nature Plants (2019)](https://doi.org/10.1038/s41477-019-0563-0).
+
+<div id="Tan2Carousel" class="carousel slide" data-ride="carousel" >
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#Tan2Carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#Tan2Carousel" data-slide-to="1"></li>
+    </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox" style="max-width:760px; max-height:350px !important;">
+    <div class="item active">
+      <img src="/images/others/Triangle.png" class="mh-100 center-block" alt=" " style="width: auto; height: 250px;">
+    </div>
+
+    <div class="item">
+      <img src="/images/others/Bird_Sorghum.jpg" class="mh-100 center-block" alt=" " style="width: auto; height: 250px;">
+    </div>
+
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#Tan2Carousel" data-slide="prev" style="background-image: none;">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#Tan2Carousel" data-slide="next" style="background-image: none;">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+
+</div>
+
+<hr>

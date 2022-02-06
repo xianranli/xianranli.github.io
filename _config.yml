@@ -1,16 +1,14 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
 
 # Basic
-name:               "Kording lab"
-title:              "Kording lab at University of Pennsylvania"
-description:        "this is a page for Konrad Kording lab, we are comptational neurosciece and datascience lab at the University of Pennsylvania, Philadelphia"
+name:               "LI Lab"
+title:              "Li lab at USDA-ARS WHGQ"
+description:        "this is a page for Xianran Li Lab at the USDA-ARS WHGQ"
 
+#avatar:             "/images/logo/ars-color-lockup.png"
+logo:               /images/logo/ars-color-lockup.png
 
 # URL
-url:                http://kordinglab.com
-baseurl:            
+baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
@@ -24,16 +22,18 @@ highlighter:        rouge
 nav:
   - name:           "home"
     href:           "/"
-  - name:           "about"
+  - name:           "research"
     href:           "/about"
   - name:           "publications"
     href:           "/publication"
   - name:           "people"
     href:           "/people"
-  - name:           "blog"
-    href:           "/blog"
   - name:           "resources"
     href:           "/resources"
+#  - name:           "others"
+#    href:           "/blog"
+
+
 
 # Sass
 sass:
@@ -59,6 +59,7 @@ defaults:
       type:         "people"
     values:
       layout:       "profile"
+
 
 
 collections:
