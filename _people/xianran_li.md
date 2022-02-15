@@ -2,7 +2,7 @@
 name: Xianran Li
 position: pi
 avatar: xianran_li.png
-twitter: KordingLab
+twitter: li_xianran
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
