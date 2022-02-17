@@ -29,7 +29,7 @@ Matthew Dzievit, Tingting Guo, Xianran Li, Jianming Yu<br>
 **Plant Genome**, 2021 ([Article](https://doi.org/10.1002/tpg2.20160))
 
 _Genetic dissection of seasonal vegetation index dynamics in maize through aerial based high-throughput phenotyping_<br>
-Matthew Dzievit, Tingting Guo, Xianran Li, Jianming Yu<br>
+Jinyu Wang, Tingting Guo, Xianran Li, Jianming Yu<br>
 **Plant Genome**, 2021 ([Article](https://doi.org/10.1002/tpg2.20155))
 
 _De novo assembly, annotation, and comparative analysis of 26 diverse maize genomes_<br>
