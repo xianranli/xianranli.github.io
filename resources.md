@@ -21,4 +21,4 @@ The QIAxcel Advanced system fully automates sensitive, high-resolution capillary
 
 [<img src="/images/others/Jess.jpg" style="float: right; width: auto; height: 150px;">](https://www.proteinsimple.com/jess.html)
 Automation of protein separation and immunodetection eliminates many of the tedious, error-prone steps of traditional Western blotting which limit data quality. Just load your samples and reagents into the microplate and Jess separates your proteins by size, and precisely manages antibody additions, incubations, washes and even the detection steps. Come back to fully analyzed western blotting results on 24 samples in 3 hours.
-#### RealTime 
+
