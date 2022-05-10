@@ -19,7 +19,7 @@ Qi Mu, Tingting Guo, Xianran Li<sup>*</sup>, Jianming Yu<sup>*</sup><br>
 (News Press [Under the hood: How environment and genomes interact in plant development](https://www.news.iastate.edu/news/2022/01/24/sorghumplasticity))<br>
 
 _Unraveling the sorghum domestication_<br>
-Xianran Li and Jianming Yu
+Xianran Li and Jianming Yu<br>
 **Molecular Plant**, 2022 ([Article](https://doi.org/10.1016/j.molp.2022.03.006))<br>
 
 ### 2021
