@@ -18,6 +18,10 @@ Qi Mu, Tingting Guo, Xianran Li<sup>*</sup>, Jianming Yu<sup>*</sup><br>
 **New Phytologist**, 2022 ([Article](https://doi.org/10.1111/nph.17904))<br>
 (News Press [Under the hood: How environment and genomes interact in plant development](https://www.news.iastate.edu/news/2022/01/24/sorghumplasticity))<br>
 
+_Unraveling the sorghum domestication_<br>
+Xianran Li and Jianming Yu
+**Molecular Plant**, 2022 ([Article](https://doi.org/10.1016/j.molp.2022.03.006))<br>
+
 ### 2021
 _A integrated framework reinstating the environmental dimension for genome-wide association studies and genomic selection for crops_<br>
 Xianran Li<sup>#</sup>, Tingting Guo<sup>#</sup>, Jinyu Wang Wubishet Bekele, Sivakumar Sukumaran, Adam E. Vanous, James P. McNellie, Laura Cortes, Marta Lopes, Kendall Lamkey, Mark Westgate, John McKay, Sotirios Archontoulis, Matthew Reynolds, Nicholas Tinker, Patrick Schnable, Jianming Yu<br>
