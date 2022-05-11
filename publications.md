@@ -20,7 +20,7 @@ Qi Mu, Tingting Guo, Xianran Li<sup>*</sup>, Jianming Yu<sup>*</sup><br>
 
 _Unraveling the sorghum domestication_<br>
 Xianran Li and Jianming Yu<br>
-**Molecular Plant**, 2022 ([Article](https://doi.org/10.1016/j.molp.2022.03.006))<br>
+**Molecular Plant**, 2022 ([Spotlight](https://doi.org/10.1016/j.molp.2022.03.006))<br>
 
 ### 2021
 _A integrated framework reinstating the environmental dimension for genome-wide association studies and genomic selection for crops_<br>
