@@ -7,6 +7,9 @@ permalink: /publication/
 For the complete list, see [google scholar](https://scholar.google.com/citations?user=Oaii0dQAAAAJ&hl=en) (<sup>#</sup> equal contribution; <sup>*</sup> corresponding author).
 <hr>
 ### 2022
+_Machine learning for predicting phenotype from genotype and environment_<br>
+Tingting Guo, Xianran Li<sup>*</sup> <br>
+**Current Opinion in Biotechnology**, 2022 ([Review](https://doi.org/10.1016/j.copbio.2022.102853))<br>
 
 _Genetics-inspired data-driven approaches explain and predict crop performance fluctuations attributed to changing climatic conditions_<br>
 Xianran Li<sup>*</sup>, Tingting Guo, Guihua Bai, Zhiwu Zhang, Juliet Marshall, Kimberly A. Garland-Campbell, Jianming Yu<br>
