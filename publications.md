@@ -7,6 +7,9 @@ permalink: /publication/
 For the complete list, see [google scholar](https://scholar.google.com/citations?user=Oaii0dQAAAAJ&hl=en) (<sup>#</sup> equal contribution; <sup>*</sup> corresponding author).
 <hr>
 ### 2022
+_Machine learning for predicting phenotype from genotype and environment_<br>
+Tingting Guo, Xianran Li<sup>*</sup> <br>
+**Current Opinion in Biotechnology**, 2022 ([Review](https://doi.org/10.1016/j.copbio.2022.102853))<br>
 
 _Genetics-inspired data-driven approaches explain and predict crop performance fluctuations attributed to changing climatic conditions_<br>
 Xianran Li<sup>*</sup>, Tingting Guo, Guihua Bai, Zhiwu Zhang, Juliet Marshall, Kimberly A. Garland-Campbell, Jianming Yu<br>
@@ -17,6 +20,10 @@ _Phenotypic plasticity in plant height shaped by interaction between genetic loc
 Qi Mu, Tingting Guo, Xianran Li<sup>*</sup>, Jianming Yu<sup>*</sup><br>
 **New Phytologist**, 2022 ([Article](https://doi.org/10.1111/nph.17904))<br>
 (News Press [Under the hood: How environment and genomes interact in plant development](https://www.news.iastate.edu/news/2022/01/24/sorghumplasticity))<br>
+
+_Unraveling the sorghum domestication_<br>
+Xianran Li and Jianming Yu<br>
+**Molecular Plant**, 2022 ([Spotlight](https://doi.org/10.1016/j.molp.2022.03.006))<br>
 
 ### 2021
 _A integrated framework reinstating the environmental dimension for genome-wide association studies and genomic selection for crops_<br>
@@ -29,7 +36,7 @@ Matthew Dzievit, Tingting Guo, Xianran Li, Jianming Yu<br>
 **Plant Genome**, 2021 ([Article](https://doi.org/10.1002/tpg2.20160))
 
 _Genetic dissection of seasonal vegetation index dynamics in maize through aerial based high-throughput phenotyping_<br>
-Matthew Dzievit, Tingting Guo, Xianran Li, Jianming Yu<br>
+Jinyu Wang, Tingting Guo, Xianran Li, Jianming Yu<br>
 **Plant Genome**, 2021 ([Article](https://doi.org/10.1002/tpg2.20155))
 
 _De novo assembly, annotation, and comparative analysis of 26 diverse maize genomes_<br>

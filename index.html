@@ -88,10 +88,9 @@ layout: default
       <div class="w3-container" style="   background: #f0f8ff; padding: 20px; border-radius:10px; border: 1px solid #5d8aa8">
         <div style="text-align:left">
           <h4> Recent News </h4>
-          <u>Happenings of the last two months.</u>
           <span style="display: block; margin-bottom: 0.5em"></span>
           <div class="news">
-              {% capture now %}{{'now' | date: '%s' | minus: 5184000 }}{% endcapture %}
+              {% capture now %}{{'now' | date: '%s' | minus: 5148000 }}{% endcapture %}
               <ul style="list-style-position:outside;padding:20px" >
                 {% for new in site.data.news %}
                   {% capture date %}{{new.date | date: '%s' | plus: 0 }}{% endcapture %}
@@ -114,10 +113,10 @@ layout: default
       <!-- <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> -->
 
       <span style="display: block; margin-bottom: 2em"></span>
-      Address: USDA-ARS Wheat Health, Quality, and Genetics Research Unit<br>
+      Address: USDA-ARS Wheat Health, Genetics, and Quality Research Unit<br>
     219 Johnson Hall, Washington State University, Pullman, WA 99164<br>
-    
-    
+
+
       <!-- <span style="display: block; margin-bottom: 2em"></span> -->
       <a href="mailto:xianran.li@usda.gov"><i class="fa fa-envelope-o"></i> xianran.li@usda.gov</a>
       <hr>

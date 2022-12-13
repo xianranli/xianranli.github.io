@@ -2,14 +2,14 @@
 name: Xianran Li
 position: pi
 avatar: xianran_li.png
-twitter: KordingLab
+twitter: li_xianran
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 - _Research Biologist (Computational Bioinformatics)_<br>
 
-<i class="fa fa-envelope-o"></i> `xianan.li@usda.gov` `xianan.li@wsu.edu`
+<i class="fa fa-envelope-o"></i> `xianran.li@usda.gov` `xianran.li@wsu.edu`
 
 **Office**<br>
 219 Johnson Hall Washington State University <br>
