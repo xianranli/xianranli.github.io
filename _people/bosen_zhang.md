@@ -15,4 +15,4 @@ joined: 2022
 283 Clark Hall Washington State University <br>
 Pullman, WA 99164
 
-Bosen is working on multiple projects, including developing bioinformatic tools to efficiently mine pan-genome to facilitate gene discovery and characterization and developing predictive models to understand how climate change impact crop performance 
+Bosen is working on multiple projects, including developing bioinformatic tools to efficiently mine pan-genome to facilitate gene discovery and characterization and developing predictive models to understand how climate change impact crop performance.

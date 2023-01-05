@@ -11,4 +11,4 @@ joined: 2022
 
 <i class="fa fa-envelope-o"></i> `ltibbs@iastate.edu`
 
-Laura joined the lab after receiving her PhD degree at Iowa State University in 2022. She is working on understanding crop phenotypic plasticity and adaptation. Laura is working remotely at Ames, IA
+Laura joined the lab after receiving her PhD degree at Iowa State University in 2022. She is working on understanding crop phenotypic plasticity and adaptation. Laura is working remotely at Ames, IA.
