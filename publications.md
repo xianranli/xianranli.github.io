@@ -8,8 +8,8 @@ For the complete list, see [google scholar](https://scholar.google.com/citations
 <hr>
 ### 2023
 _Streamline unsupervised machine learning to survey and graph indel-based haplotypes from pan-genomes_<br>
-Bosen Zhang, Haiyan Huang, Laura E. Tibbs-Cortes, Adam Vanous,  View ORCID ProfileZhiwu Zhang, Karen Sanguinet, Kimberly A. Garland-Campbell, Jianming Yu, Xianran Li<sup>*</sup> <br>
-**BioRxiv**, 2023 ([Article]https://doi.org/10.1101/2023.02.11.527743) <br>
+Bosen Zhang, Haiyan Huang, Laura E. Tibbs-Cortes, Adam Vanous,  View ORCID ProfileZhiwu Zhang, Karen Sanguinet, Kimberly A. Garland-Campbell, Jianming Yu, Xianran Li<sup>*</sup><br>
+**BioRxiv**, 2023 ([Article](https://doi.org/10.1101/2023.02.11.527743))<br>
 (BRIDGEcereal: https://bridgecereal.scinet.usda.gov/)<br>
 
 ### 2022
