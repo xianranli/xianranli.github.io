@@ -10,7 +10,7 @@ For the complete list, see [google scholar](https://scholar.google.com/citations
 _Streamline unsupervised machine learning to survey and graph indel-based haplotypes from pan-genomes_<br>
 Bosen Zhang, Haiyan Huang, Laura E. Tibbs-Cortes, Adam Vanous,  View ORCID ProfileZhiwu Zhang, Karen Sanguinet, Kimberly A. Garland-Campbell, Jianming Yu, Xianran Li<sup>*</sup><br>
 **BioRxiv**, 2023 ([Article](https://doi.org/10.1101/2023.02.11.527743))<br>
-(BRIDGEcereal: https://bridgecereal.scinet.usda.gov/)<br>
+([BRIDGEcereal](https://bridgecereal.scinet.usda.gov) webapp)<br>
 
 ### 2022
 _Machine learning for predicting phenotype from genotype and environment_<br>
