@@ -1,7 +1,6 @@
 ---
 title: Publication
 permalink: /publication/
-
 ---
 
 For the complete list, see [google scholar](https://scholar.google.com/citations?user=Oaii0dQAAAAJ&hl=en) (<sup>#</sup> equal contribution; <sup>*</sup> corresponding author).
