@@ -3,21 +3,21 @@ title: Talks
 permalink: /talks/
 ---
 
-30.	Integration of sorghum genetics, human genetics, and environmental condition demystified tannin domestication | Global Sorghum Conference | June 5-9, 2023 |Montpellier, France
+30.	Integration of sorghum genetics, human genetics, and environmental condition demystified tannin domestication | Global Sorghum Conference | June 5 - 9, 2023 |Montpellier, France
 29.	Streamline unsupervised learning to survey and graph indel-based haplotype from pan-genome | 65th Annual Maize Genetics Meeting | 2023 | St. Louis, MO
 28.	BRIDGEcereal for surveying and graphing haplotypes from pan-genome | 3rd USDA Data Innovations Showcase | January 27, 2023 | USDA-ARS PDI (Virtual)
 27.	Reinstate and reframe environment in exploring phenotype landscape | Plant and Animal Genome 30 Conference | January 13 – 19, 2023 | San Diego, CA
 26.	Deciphering the mystery of sorghum tannin domestication in Africa: coevolution of the domestication triangle | The 2022 ASA, CSSA, and SSSA International Meeting | November 6 – 9, 2022 | Baltimore, MD
 25.	Repurposing variety testing trials to explain and predict climatic impacts to crop performance via genetics-inspired approaches | The 2022 ASA, CSSA, and SSSA International Meeting | November 6 – 9, 2022 | Baltimore, MD
-24.	Deciphering the mystery of sorghum tannin domestication in Africa: coevolution among sorghum, human, and bird | The 2022 Population, Evolutionary, and Quantitative Genetics Conference | June 7-11, 2022 | Pacific Grove, CA
+24.	Deciphering the mystery of sorghum tannin domestication in Africa: coevolution among sorghum, human, and bird | The 2022 Population, Evolutionary, and Quantitative Genetics Conference | June 7 - 11, 2022 | Pacific Grove, CA
 23.	Connecting human genetics, crop genetics, and environmental conditions toward sustainable and healthy diet | February 11st, 2022 | the Nebraska Food for Health Center, University of Nebraska, Lincoln (Virtual)
-22.	Towards better utilization of biodiversity through harmonic relationships between genetics and environments | December 1st, 2021 | 2021 International Cooperation Seminar on the Conservation and Utilization of Biological Resources. | Nanni, Guangxi (Virtual)
+22.	Towards better utilization of biodiversity through harmonic relationships between genetics and environments | December 1st, 2021 | 2021 International Cooperation Seminar on the Conservation and Utilization of Biological Resources | Nanni, Guangxi (Virtual)
 21.	Sensing plants sense: explore crop performance dynamics in changing climate | November 11-15th, 2021 | The 2nd International Forum on Crop Science Geen Crops for Sustainable Agricultrue | Wuhan, China (Virtual)
 20.	Explain and predict spring wheat performance trends spanning decades with whole-season climate conditions | November 7-10, 2021 | 2021 ASA, CSSA and SSSA Annual Meeting | Salt Lake City, UT (Virtual)
 19.	Sensing plants sense: exploring crop genetics in environmental dimensions | September 26th, 2021 | Department of Crop and Soil Sciences, Washington State University | Pullman, WA
 18.	When bitter is better: demystify sorghum tannin domestication through bird’s-eye view of agroecosystem | July 19-23, 2021 | Plant Biology 2021 Worldwide Summit (Virtual)
-17.	Exploring crop genetics in environmental dimensions | December 10, 2020 | USDA-ARS, Pullman, WA (Virtual Zoom seminar)
-16.	Chart plant genetics in micro- and marco-environmental dimension | September 8, 2020 | USDA-ARS, Columbia, MO (Virtual Zoom seminar)
+17.	Exploring crop genetics in environmental dimensions | December 10, 2020 | USDA-ARS, Pullman, WA (Virtual)
+16.	Chart plant genetics in micro- and marco-environmental dimension | September 8, 2020 | USDA-ARS, Columbia, MO (Virtual)
 15.	Solving a puzzle game: co-evolution of crops, birds, and farmers in African agroecosystem | Iowa State Universtiy | February 5, 2020 | Ames, IA
 14.	Co-evolution of crops, birds, and farmers in African agroecosystem pivoted by secondary metabolites | Plant and Animal Genome XXVIII Conference | January 11 – 15, 2020 | San Diego, CA
 13.	Crop genome divergence along domestication captured by base composition from genome-wide SNPs | The 5th Conference on Plant Genome Evolution | September 29 – October 1, 2019 | Sitges, Spain
