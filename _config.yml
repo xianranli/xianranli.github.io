@@ -30,8 +30,8 @@ nav:
     href:           "/people"
   - name:           "resources"
     href:           "/resources"
-#  - name:           "talks"
-#    href:           "/talks"
+  - name:           "talks"
+    href:           "/talks"
 
 
 
