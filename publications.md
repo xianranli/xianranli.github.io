@@ -7,6 +7,7 @@ permalink: /publication/
 For the complete list, see [google scholar](https://scholar.google.com/citations?user=Oaii0dQAAAAJ&hl=en) (<sup>#</sup> equal contribution; <sup>*</sup> corresponding author).
 <hr>
 ### 2023
+
 _Streamline unsupervised machine learning to survey and graph indel-based haplotypes from pan-genomes_<br>
 Bosen Zhang, Haiyan Huang, Laura E. Tibbs-Cortes, Adam Vanous,  View ORCID ProfileZhiwu Zhang, Karen Sanguinet, Kimberly A. Garland-Campbell, Jianming Yu, Xianran Li<sup>*</sup><br>
 **BioRxiv**, 2023 ([Article](https://doi.org/10.1101/2023.02.11.527743))<br>
