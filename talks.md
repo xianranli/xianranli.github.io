@@ -15,7 +15,7 @@ permalink: /talks/
 21.	Sensing plants sense: explore crop performance dynamics in changing climate | November 11-15th, 2021 | The 2nd International Forum on Crop Science Geen Crops for Sustainable Agricultrue | Wuhan, China (Virtual)
 20.	Explain and predict spring wheat performance trends spanning decades with whole-season climate conditions | November 7-10, 2021 | 2021 ASA, CSSA and SSSA Annual Meeting | Salt Lake City, UT (Virtual)
 19.	Sensing plants sense: exploring crop genetics in environmental dimensions | September 26th, 2021 | Department of Crop and Soil Sciences, Washington State University | Pullman, WA
-18.	When bitter is better: demystify sorghum tannin domestication through bird’s-eye view of agroecosystem | July 19-23, 2021 | Plant Biology 2021 Worldwide Summit (Virtual)
+18.	When bitter is better: demystify sorghum tannin domestication through bird's-eye view of agroecosystem | July 19-23, 2021 | Plant Biology 2021 Worldwide Summit (Virtual)
 17.	Exploring crop genetics in environmental dimensions | December 10, 2020 | USDA-ARS, Pullman, WA (Virtual)
 16.	Chart plant genetics in micro- and marco-environmental dimension | September 8, 2020 | USDA-ARS, Columbia, MO (Virtual)
 15.	Solving a puzzle game: co-evolution of crops, birds, and farmers in African agroecosystem | Iowa State Universtiy | February 5, 2020 | Ames, IA
