@@ -25,13 +25,13 @@ nav:
   - name:           "research"
     href:           "/about"
   - name:           "publications"
-    href:           "/publication"
+    href:           "/publications"
   - name:           "people"
     href:           "/people"
   - name:           "resources"
     href:           "/resources"
   - name:           "talks"
-    href:           "/talk"
+    href:           "/talks"
 
 
 
