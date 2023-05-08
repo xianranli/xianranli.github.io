@@ -30,8 +30,8 @@ nav:
     href:           "/people"
   - name:           "resources"
     href:           "/resources"
-#  - name:           "others"
-#    href:           "/blog"
+  - name:           "talks"
+    href:           "/talk"
 
 
 
