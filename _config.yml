@@ -28,10 +28,10 @@ nav:
     href:           "/publications"
   - name:           "people"
     href:           "/people"
-  - name:           "resources"
-    href:           "/resources"
   - name:           "talks"
     href:           "/talks"
+  - name:           "resources"
+    href:           "/resources"
 
 
 
