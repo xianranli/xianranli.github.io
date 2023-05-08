@@ -12,11 +12,16 @@ Bosen Zhang, Haiyan Huang, Laura E. Tibbs-Cortes, Adam Vanous,  View ORCID Profi
 **BioRxiv**, 2023 ([Article](https://doi.org/10.1101/2023.02.11.527743))<br>
 ([BRIDGEcereal](https://bridgecereal.scinet.usda.gov) webapp)<br>
 
-### 2022
 _Machine learning for predicting phenotype from genotype and environment_<br>
 Tingting Guo<sup>*</sup>, Xianran Li<sup>*</sup> <br>
-**Current Opinion in Biotechnology**, 2022 ([Review](https://doi.org/10.1016/j.copbio.2022.102853))<br>
+**Current Opinion in Biotechnology**, 2023 ([Review](https://doi.org/10.1016/j.copbio.2022.102853))<br>
 (Propose to expand the pan-genome concept into pan-phenome and pan-envirome)
+
+_Affordable High Throughput Field Detection of Wheat Stripe Rust Using Deep Learning with Semi-Automated Image Labeling_<br>
+Zhou Tang, Meinan Wang, Michael Schirrmann, Karl-Heinz Dammer, Xianran Li, Robert Brueggeman, Sindhuja Sankaran, Arron H. Carter, Michael O. Pumphrey, Yang Hu, Xianming Chen, Zhiwu Zhang
+**Computers and Electronics in Agriculture**, 2023 ([Article](https://doi.org/10.1016/j.compag.2023.107709))<br>
+
+### 2022
 
 _Genetics-inspired data-driven approaches explain and predict crop performance fluctuations attributed to changing climatic conditions_<br>
 Xianran Li<sup>*</sup>, Tingting Guo, Guihua Bai, Zhiwu Zhang, Juliet Marshall, Kimberly A. Garland-Campbell, Jianming Yu<br>
