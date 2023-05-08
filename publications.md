@@ -1,10 +1,11 @@
 ---
 title: Publication
-permalink: /publication/
+permalink: /publications/
 ---
 
 For the complete list, see [google scholar](https://scholar.google.com/citations?user=Oaii0dQAAAAJ&hl=en) (<sup>#</sup> equal contribution; <sup>*</sup> corresponding author).
 <hr>
+
 ### 2023
 
 _Streamline unsupervised machine learning to survey and graph indel-based haplotypes from pan-genomes_<br>
