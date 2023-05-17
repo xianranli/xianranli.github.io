@@ -1,8 +1,8 @@
 ---
 name: Linqian Han
 position: postdoc
-avatar: Linqian_Han.jpeg
-joined: 2022
+avatar: Linqian_Han.jpg
+joined: 2023
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
