@@ -28,6 +28,7 @@ _Genetics-inspired data-driven approaches explain and predict crop performance f
 Xianran Li<sup>*</sup>, Tingting Guo, Guihua Bai, Zhiwu Zhang, Juliet Marshall, Kimberly A. Garland-Campbell, Jianming Yu<br>
 **Molecular Plant**, 2022 ([Article](https://doi.org/10.1016/j.molp.2022.01.001))<br>
 (Highlighted by a Spotlight [Prediction of and for new environments: what's your model?](https://doi.org/10.1016/j.molp.2022.01.018))<br>
+(Press release by USDA ARS Tellus [Quantifying the Impact of Changing Climate Conditions on Elite Wheat Variety Performance](https://tellus.ars.usda.gov/stories/articles/quantifying-the-impact-of-changing-climate-conditions-on-elite-wheat-variety-performance/))<br>
 
 _Phenotypic plasticity in plant height shaped by interaction between genetic loci and diurnal temperature range_<br>
 Qi Mu, Tingting Guo, Xianran Li<sup>*</sup>, Jianming Yu<sup>*</sup><br>
