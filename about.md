@@ -132,11 +132,11 @@ Large indels contribute to phenotypic variations by altering either gene structu
     </div>
 
     <div class="item">
-      <img src="/images/others/BRIDGEcereal_1.jpg" class="mh-100 center-block" alt=" " style="width: auto; height: 250px;">
+      <img src="/images/others/BRIDGEcereal_1.png" class="mh-100 center-block" alt=" " style="width: auto; height: 250px;">
     </div>
     
     <div class="item">
-      <img src="/images/others/BRIDGEcereal_2.jpg" class="mh-100 center-block" alt=" " style="width: auto; height: 250px;">
+      <img src="/images/others/BRIDGEcereal_2.png" class="mh-100 center-block" alt=" " style="width: auto; height: 250px;">
     </div>
 
   </div>
