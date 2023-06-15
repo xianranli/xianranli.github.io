@@ -114,4 +114,43 @@ Crop domestication, an evolutionary process, took place with the synergistic int
 
 </div>
 
+##### 4 Survey and graph large indels
+Large indels contribute to phenotypic variations by altering either gene structures or expressions. A pangenome with mulitple de novo assemblies open the possiblity to catalog large indels, but survying large indels for a gene of interest from pangenome is challenging and painstaking tasks. With two novel unsupervised learning algorithms (CHOICE and CLIPS), [BRIDGEcereal](https://bridgecereal.scinet.usda.gov/) is developed to streamline the process. The only requirment is a gene model ID. As demonstrated with mulitple wheat genes, BRIDGEcereal could accerelate the process of identifying genes underlying QTL and GWAS signals.
+
+<div id="BRIDGEcerealCarousel" class="carousel slide" data-ride="carousel" >
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#BRIDGEcerealCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#BRIDGEcerealCarousel" data-slide-to="1"></li>
+    <li data-target="#BRIDGEcerealCarousel" data-slide-to="2"></li>
+    </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox" style="max-width:760px; max-height:350px !important;">
+    <div class="item active">
+      <img src="/images/others/BRIDGEcereal_logo.png" class="mh-100 center-block" alt=" " style="width: auto; height: 250px;">
+    </div>
+
+    <div class="item">
+      <img src="/images/others/BRIDGEcereal_1.jpg" class="mh-100 center-block" alt=" " style="width: auto; height: 250px;">
+    </div>
+    
+    <div class="item">
+      <img src="/images/others/BRIDGEcereal_2.jpg" class="mh-100 center-block" alt=" " style="width: auto; height: 250px;">
+    </div>
+
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#BRIDGEcerealCarousel" data-slide="prev" style="background-image: none;">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#BRIDGEcerealCarousel" data-slide="next" style="background-image: none;">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+
+</div>
 <hr>
+
