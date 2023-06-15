@@ -12,6 +12,7 @@ _Streamline unsupervised machine learning to survey and graph indel-based haplot
 Bosen Zhang, Haiyan Huang, Laura E. Tibbs-Cortes, Adam Vanous,  View ORCID ProfileZhiwu Zhang, Karen Sanguinet, Kimberly A. Garland-Campbell, Jianming Yu, Xianran Li<sup>*</sup><br>
 **Molecular Plant**, 2023 ([Article](https://doi.org/10.1016/j.molp.2023.05.005))<br>
 ([BRIDGEcereal](https://bridgecereal.scinet.usda.gov) webapp)<br>
+(Press release by USDA ARS  [BRIDGEcereal: Self-Teaching Web App Improves Speed, Accuracy of Classifying DNA Variations Among Cereal Varieties](https://www.ars.usda.gov/news-events/news/research-news/2023/bridgecereal-self-teaching-web-app-improves-speed-accuracy-of-classifying-dna-variations-among-cereal-varieties/))<br>
 
 _Machine learning for predicting phenotype from genotype and environment_<br>
 Tingting Guo<sup>*</sup>, Xianran Li<sup>*</sup> <br>
