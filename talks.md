@@ -2,6 +2,12 @@
 title: Talks
 permalink: /talks/
 ---
+(33)	BRIDGEcereal streamlines unsupervised learning to graph indel-based haplotype from pan-genome. November 7 - 9, 2023. 7th Conference on Cereal Biotechnology and Breeding. Wernigerode, Germany
+
+(32)	BRIDGEcereal: a machine learning boosted webapp to survey and graph indels for candidate genes from pangenomes. October 29 – November 1, 2023. 2023 ASA, CSSA, SSSA International Annual Meeting. St. Louis, MO
+
+(31)	BRIDGEcereal streamlines unsupervised learning to graph indel-based haplotype from pan-genome. October 11, 2023. Iowa State University. Ames, IA
+
 (30)	Integration of sorghum genetics, human genetics, and environmental condition demystified tannin domestication. Global Sorghum Conference. June 5 - 9, 2023. Montpellier, France
 
 (29)	Streamline unsupervised learning to survey and graph indel-based haplotype from pan-genome. 65th Annual Maize Genetics Meeting. 2023. St. Louis, MO
