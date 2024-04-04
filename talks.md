@@ -3,6 +3,17 @@ title: Talks
 permalink: /talks/
 ---
 
+(38)	Enviromic prediction for high-profile wheat traits through machine learning and deep learning. March 25 - 25, 2024. Soft Wheat Quality Council Meeting & Cereals & Grains Association Cincinnati Section. Wooster, OH
+
+(37)	Enviromics integration: bridging the past to future for high-profile wheat traits. January 31 - February 2, 2024. Pacific Northwest Wheat Quality Counci & Cereals & Grains Association PNW Section. Boise, ID
+
+(36)	Exploit phenotypic plasticity in crops. January 12 - 17, 2024. Plant and Animal Genome 31 Conference. San Diego, CA
+
+(35)	BRIDGEcereal streamlines unsupervised learning to graph indel-based haplotype from pan-genome. January 12 - 17, 2024. Plant and Animal Genome 31 Conference. San Diego, CA
+
+(34)	Repurpose and revitalize long-term variety testing trials to decode ingrained climate change. November 27, 2023. Washingtion State University. Pullman, WA
+
+
 (33)	BRIDGEcereal streamlines unsupervised learning to graph indel-based haplotype from pan-genome. November 7 - 9, 2023. 7th Conference on Cereal Biotechnology and Breeding. Wernigerode, Germany
 
 (31)	BRIDGEcereal streamlines unsupervised learning to graph indel-based haplotype from pan-genome. October 11, 2023. Iowa State University. Ames, IA
