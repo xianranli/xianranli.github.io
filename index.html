@@ -101,7 +101,7 @@ layout: default
           <h4> Recent News </h4>
           <span style="display: block; margin-bottom: 0.5em"></span>
           <div class="news">
-              {% capture now %}{{'now' | date: '%s' | minus: 5148000 }}{% endcapture %}
+              {% capture now %}{{'now' | date: '%s' | minus: 2592000 }}{% endcapture %}
               <ul style="list-style-position:outside;padding:20px" >
                 {% for new in site.data.news %}
                   {% capture date %}{{new.date | date: '%s' | plus: 0 }}{% endcapture %}
