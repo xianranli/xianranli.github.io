@@ -5,8 +5,24 @@ permalink: /publications/
 
 For the complete list, see [google scholar](https://scholar.google.com/citations?user=Oaii0dQAAAAJ&hl=en) (<sup>#</sup> equal contribution; <sup>*</sup> corresponding author).
 <hr>
+### 2024
+
+_Evolutionary patterns of barley and rice genomes highlight the role of the environment in shaping the genome_ <br>
+Xiangjian Gou, Yang Shao, Haoran Shi, Jianming Yu, Xianran Li*, Tingting Guo*. 
+Plant Genome (Accepted) 2024.
+
+_Novel allelic variations in Tannin1 and Tannin2 contribute to tannin absence in sorghum. 
+Wenbin Zhang, Ryan Benke, Xiao Zhang, Huawen Zhang, Cunyuan Zhao, Yu Zhao, Ying Xu, Hailian Wang, Shubing Liu, Xianran Li*, Yuye Wu*.  
+Molecular Breeding. 2024. ([Article](https://doi.org/10.1007/s11032-024-01463-y))<br>
+
+_The role of artificial intelligence in crop improvement_ <br>
+Karlene Negus, Xianran Li, Stephen Welch, and Jianming Yu.
+Advances in Agronomy. 2024. ([Review/Book Chapter](https://doi.org/10.1016/bs.agron.2023.11.001))<br>
 
 ### 2023
+_Environmental context of phenotypic plasticity in flowering time in sorghum and rice_ <br> 
+Tingting Guo, Jialu Wei, Xianran Li, and Jianming Yu. 
+Journal of Experimental Botany. 2023. ([Article](https://doi.org/10.1093/jxb/erad398))<br>
 
 _Streamline unsupervised machine learning to survey and graph indel-based haplotypes from pan-genomes_<br>
 Bosen Zhang, Haiyan Huang, Laura E. Tibbs-Cortes, Adam Vanous,  View ORCID ProfileZhiwu Zhang, Karen Sanguinet, Kimberly A. Garland-Campbell, Jianming Yu, Xianran Li<sup>*</sup><br>
