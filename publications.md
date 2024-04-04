@@ -17,7 +17,7 @@ Wenbin Zhang, Ryan Benke, Xiao Zhang, Huawen Zhang, Cunyuan Zhao, Yu Zhao, Ying 
 
 _The role of artificial intelligence in crop improvement_<br>
 Karlene Negus, Xianran Li, Stephen Welch, and Jianming Yu<br>
-**Advances in Agronomy**, 2024. ([Review/Book Chapter](https://doi.org/10.1016/bs.agron.2023.11.001))<br>
+**Advances in Agronomy**, 2024. ([Book Chapter](https://doi.org/10.1016/bs.agron.2023.11.001))<br>
 
 ### 2023
 
