@@ -15,7 +15,7 @@ permalink: /talks/
 
 (33)	BRIDGEcereal streamlines unsupervised learning to graph indel-based haplotype from pan-genome. November 7 - 9, 2023. 7th Conference on Cereal Biotechnology and Breeding. Wernigerode, Germany
 
-(32)	BRIDGEcereal: a machine learning boosted webapp to survey and graph indels for candidate genes from pangenomes. October 29 – November 1, 2023. 2023 ASA, CSSA, SSSA International Annual Meeting. St. Louis, MO
+(32)	BRIDGEcereal: a machine learning boosted webapp to survey and graph indels for candidate genes from pangenomes. October 29 - November 1, 2023. 2023 ASA, CSSA, SSSA International Annual Meeting. St. Louis, MO
 
 (31)	BRIDGEcereal streamlines unsupervised learning to graph indel-based haplotype from pan-genome. October 11, 2023. Iowa State University. Ames, IA
 
@@ -33,13 +33,13 @@ permalink: /talks/
 
 (24)	Deciphering the mystery of sorghum tannin domestication in Africa: coevolution among sorghum, human, and bird. The 2022 Population, Evolutionary, and Quantitative Genetics Conference. June 7 - 11, 2022. Pacific Grove, CA
 
-(23)	Connecting human genetics, crop genetics, and environmental conditions toward sustainable and healthy diet. February 11st, 2022. the Nebraska Food for Health Center, University of Nebraska, Lincoln (Virtual)
+(23)	Connecting human genetics, crop genetics, and environmental conditions toward sustainable and healthy diet. February 11, 2022. the Nebraska Food for Health Center, University of Nebraska, Lincoln (Virtual)
 
-(22)	Towards better utilization of biodiversity through harmonic relationships between genetics and environments. December 1st, 2021. 2021 International Cooperation Seminar on the Conservation and Utilization of Biological Resources. Nanni, Guangxi (Virtual)
+(22)	Towards better utilization of biodiversity through harmonic relationships between genetics and environments. December 1, 2021. 2021 International Cooperation Seminar on the Conservation and Utilization of Biological Resources. Nanni, Guangxi (Virtual)
 
-(21)	Sensing plants sense: explore crop performance dynamics in changing climate. November 11-15th, 2021. The 2nd International Forum on Crop Science Geen Crops for Sustainable Agricultrue. Wuhan, China (Virtual)
+(21)	Sensing plants sense: explore crop performance dynamics in changing climate. November 11 - 15, 2021. The 2nd International Forum on Crop Science Geen Crops for Sustainable Agricultrue. Wuhan, China (Virtual)
 
-(20)	Explain and predict spring wheat performance trends spanning decades with whole-season climate conditions. November 7-10, 2021. 2021 ASA, CSSA and SSSA Annual Meeting. Salt Lake City, UT (Virtual)
+(20)	Explain and predict spring wheat performance trends spanning decades with whole-season climate conditions. November 7 - 10, 2021. 2021 ASA, CSSA and SSSA Annual Meeting. Salt Lake City, UT (Virtual)
 
 (19)	Sensing plants sense: exploring crop genetics in environmental dimensions. September 26th, 2021. Department of Crop and Soil Sciences, Washington State University. Pullman, WA
 
