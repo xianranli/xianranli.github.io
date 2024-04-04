@@ -2,9 +2,9 @@
 title: Talks
 permalink: /talks/
 ---
-(38)	Enviromic prediction for high-profile wheat traits through machine learning and deep learning. March 25 - 25, 2024. Soft Wheat Quality Council Meeting / Cereals & Grains Association Cincinnati Section. Wooster, OH
+(38)	Enviromic prediction for high-profile wheat traits through machine learning and deep learning. March 25 - 25, 2024. Soft Wheat Quality Council Meeting & Cereals & Grains Association Cincinnati Section. Wooster, OH
 
-(37)	Enviromics integration: bridging the past to future for high-profile wheat traits. January 31 - February 2, 2024. Pacific Northwest Wheat Quality Counci / Cereals & Grains Association PNW Section. Boise, ID
+(37)	Enviromics integration: bridging the past to future for high-profile wheat traits. January 31 - February 2, 2024. Pacific Northwest Wheat Quality Counci & Cereals & Grains Association PNW Section. Boise, ID
 
 (36)	Exploit phenotypic plasticity in crops. January 12 - 17, 2024. Plant and Animal Genome 31 Conference. San Diego, CA
 
