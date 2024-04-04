@@ -8,7 +8,7 @@ For the complete list, see [google scholar](https://scholar.google.com/citations
 ### 2024
 
 _Evolutionary patterns of barley and rice genomes highlight the role of the environment in shaping the genome_<br>
-Xiangjian Gou, Yang Shao, Haoran Shi, Jianming Yu, Xianran Li<sup>*</sup>, Tingting Guo<sup>*</sup><br> 
+Xiangjian Gou, Yang Shao, Haoran Shi, Jianming Yu, Xianran Li<sup>*</sup>, Tingting Guo<sup>*</sup><br>
 **Plant Genome**, 2024.<br>
 
 _Novel allelic variations in Tannin1 and Tannin2 contribute to tannin absence in sorghum_<br>
@@ -20,8 +20,9 @@ Karlene Negus, Xianran Li, Stephen Welch, and Jianming Yu<br>
 **Advances in Agronomy**, 2024. ([Review/Book Chapter](https://doi.org/10.1016/bs.agron.2023.11.001))<br>
 
 ### 2023
+
 _Environmental context of phenotypic plasticity in flowering time in sorghum and rice_<br>
-Tingting Guo, Jialu Wei, Xianran Li, and Jianming Yu<br> 
+Tingting Guo, Jialu Wei, Xianran Li, and Jianming Yu<br>
 **Journal of Experimental Botany**, 2023. ([Article](https://doi.org/10.1093/jxb/erad398))<br>
 
 _Streamline unsupervised machine learning to survey and graph indel-based haplotypes from pan-genomes_<br>
