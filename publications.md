@@ -32,7 +32,7 @@ Bosen Zhang, Haiyan Huang, Laura E. Tibbs-Cortes, Adam Vanous,  View ORCID Profi
 (Press release by USDA ARS  [BRIDGEcereal: Self-Teaching Web App Improves Speed, Accuracy of Classifying DNA Variations Among Cereal Varieties](https://www.ars.usda.gov/news-events/news/research-news/2023/bridgecereal-self-teaching-web-app-improves-speed-accuracy-of-classifying-dna-variations-among-cereal-varieties/))<br>
 
 _Machine learning for predicting phenotype from genotype and environment_<br>
-Tingting Guo<sup>*</sup>, Xianran Li<sup>*</sup> <br>
+Tingting Guo<sup>*</sup>, Xianran Li<sup>*</sup><br>
 **Current Opinion in Biotechnology**, 2023 ([Review](https://doi.org/10.1016/j.copbio.2022.102853))<br>
 (Propose to expand the pan-genome concept into pan-phenome and pan-envirome)<br>
 
