@@ -3,6 +3,7 @@ title: Talks
 permalink: /talks/
 ---
 
+(33)	BRIDGEcereal streamlines unsupervised learning to graph indel-based haplotype from pan-genome. November 7 - 9, 2023. 7th Conference on Cereal Biotechnology and Breeding. Wernigerode, Germany
 
 (31)	BRIDGEcereal streamlines unsupervised learning to graph indel-based haplotype from pan-genome. October 11, 2023. Iowa State University. Ames, IA
 
