@@ -13,7 +13,7 @@ Bosen Zhang, Amber L. Hauvermale, Zhiwu Zhang, Alison Thompson, Clark Neely, Aar
 
 _Evolutionary patterns of barley and rice genomes highlight the role of the environment in shaping the genome_<br>
 Xiangjian Gou, Yang Shao, Haoran Shi, Jianming Yu, Xianran Li<sup>*</sup>, Tingting Guo<sup>*</sup><br>
-**Plant Genome**, 2024.<br> ([Article](https://doi.org/10.1002/tpg2.20456))<br>
+**Plant Genome**, 2024. ([Article](https://doi.org/10.1002/tpg2.20456))<br>
 
 _Novel allelic variations in Tannin1 and Tannin2 contribute to tannin absence in sorghum_<br>
 Wenbin Zhang, Ryan Benke, Xiao Zhang, Huawen Zhang, Cunyuan Zhao, Yu Zhao, Ying Xu, Hailian Wang, Shubing Liu, Xianran Li<sup>*</sup>, Yuye Wu<sup>*</sup><br>
