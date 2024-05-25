@@ -18,7 +18,11 @@ Xiangjian Gou, Yang Shao, Haoran Shi, Jianming Yu, Xianran Li<sup>*</sup>, Tingt
 _Novel allelic variations in Tannin1 and Tannin2 contribute to tannin absence in sorghum_<br>
 Wenbin Zhang, Ryan Benke, Xiao Zhang, Huawen Zhang, Cunyuan Zhao, Yu Zhao, Ying Xu, Hailian Wang, Shubing Liu, Xianran Li<sup>*</sup>, Yuye Wu<sup>*</sup><br>
 **Molecular Breeding**, 2024. ([Article](https://doi.org/10.1007/s11032-024-01463-y))<br>
-
+	
+_Evolutionary genomics of climatic adaptation and resilience to climate change in alfalfa_<br>
+Fan Zhang,Ruicai Long,Zhiyao Ma,Hua Xiao,Xiaodong Xu,Zhongjie Liu,Chunxue Wei,Yiwen Wang,Yanling Peng,Xuanwen Yang,Xiaoya Shi,Shuo Cao,Mingna Li,Ming Xu,Fei He,Xueqian Jiang,Tiejun Zhang,Zhen Wang,Xianran Li,Long-Xi Yu,Junmei Kang,Zhiwu Zhang,Yongfeng Zhou,Qingchuan Yang<br>
+**Molecular Plant**, 2024 ([Article](https://doi.org/10.1016/j.molp.2024.04.013))<br>
+	
 _The role of artificial intelligence in crop improvement_<br>
 Karlene Negus, Xianran Li, Stephen Welch, and Jianming Yu<br>
 **Advances in Agronomy**, 2024. ([Book Chapter](https://doi.org/10.1016/bs.agron.2023.11.001))<br>
