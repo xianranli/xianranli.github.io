@@ -2,6 +2,9 @@
 title: Talks
 permalink: /talks/
 ---
+(40)	BRIDGEcereal streamlines unsupervised learning to graph indel-based haplotype from pan-genome. May 9, 2024. Translational Omics Working Group (Virtual) https://scinet.usda.gov/research/working-groups/omics
+
+(39)	Integration of Enviromics into genetics and breeding. April 25, 2024. The Wheat Breeding Methods and Strategies Expert Working Group (Virtual) https://www.wheatinitiative.org/new-events/dr-xianran-li-at-the-ewg-breeding-webinar
 
 (38)	Enviromic prediction for high-profile wheat traits through machine learning and deep learning. March 25 - 25, 2024. Soft Wheat Quality Council Meeting & Cereals & Grains Association Cincinnati Section. Wooster, OH
 
