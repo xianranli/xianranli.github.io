@@ -2,6 +2,16 @@
 title: Talks
 permalink: /talks/
 ---
+(45) Integrating environmental dimension into GWAS and GS for complex quantitative traits. January 10 - 15, 2025. Plant and Animal Genome 31 Conference. San Diego, CA
+
+(44) Phenotypic plasticity mediated adaptation. December 17, 2024. Iowa State University Crop Bioengineering Center Annual meeting. Ames, IA
+
+(43) Genetics-inspired enviromic prediction to exploit impacts from changing climate on wheat performance. September 22 - 27. The 3rd International Wheat Congress. Perth, Australia
+
+(42) Graphing large indel-based haplotypes from pan-genome facilitates gene discovery. August 23, 2024. The Annual Gamow’s Conference. Odesa, Ukraine (Virtual)
+
+(41) Deciphering sorghum domestication: the pivotal role of condensed tannins in co-evolution among plants, humans, and birds. July 7 - 11, 2024. SMBE 2024. Puerto Vallarta. 
+
 (40)	BRIDGEcereal streamlines unsupervised learning to graph indel-based haplotype from pan-genome. May 9, 2024. Translational Omics Working Group (Virtual) 
 (https://scinet.usda.gov/research/working-groups/omics)
 
