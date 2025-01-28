@@ -5,7 +5,15 @@ permalink: /publications/
 
 For the complete list, see [google scholar](https://scholar.google.com/citations?user=Oaii0dQAAAAJ&hl=en) (<sup>#</sup> equal contribution; <sup>*</sup> corresponding author).
 <hr>
+### 2025
+_A MYB transcription factor underlying plant height in sorghum qHT7.1 and maize Brachytic 1 loci_<br>
+Bosen Zhang, Amber L. Hauvermale, Zhiwu Zhang, Alison Thompson, Clark Neely, Aaron Esser, Michael Pumphrey, Kimberly Garland-Campbell, Jianming Yu, Camille Steber<sup>*</sup>, Xianran Li<sup>*</sup><br>
+**Plant Journal**, 2025. ([Article]( https://doi.org/10.1111/tpj.17111))<br>
+
 ### 2024
+_Comprehensive identification of genomic and environmental determinants of phenotypic plasticity in maize_<br>
+Laura E Tibbs-Cortes, Tingting Guo, Carson M Andorf, Xianran Li<sup>*</sup>, Jianming Yu<sup>*</sup><br>
+**Genome Research**, 2024. ([Article](https://www.genome.org/cgi/doi/10.1101/gr.279027.124))<br>
 
 _Harnessing enviromics to predict climate-impacted high-profile traits to assist informed decisions in agriculture_<br>
 Bosen Zhang, Amber L. Hauvermale, Zhiwu Zhang, Alison Thompson, Clark Neely, Aaron Esser, Michael Pumphrey, Kimberly Garland-Campbell, Jianming Yu, Camille Steber<sup>*</sup>, Xianran Li<sup>*</sup><br>
