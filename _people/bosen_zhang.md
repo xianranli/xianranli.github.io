@@ -1,6 +1,6 @@
 ---
 name: Bosen Zhang
-position: postdoc
+position: alumni ##postdoc
 avatar: Bosen_Zhang.png
 joined: 2022
 ---
