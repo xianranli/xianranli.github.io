@@ -1,6 +1,6 @@
 ---
 name: Laura Tibbs-Cortes
-position: postdoc
+position: alumni ##postdoc
 avatar: Laura Tibbs-Cortes.jpg
 joined: 2022
 ---
